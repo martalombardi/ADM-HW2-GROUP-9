@@ -4,10 +4,10 @@
 This repository contains the solution for the **second homework** of the course *Algorithmic Methods of Data Mining* for the **Master's Degree in Data Science** at *Sapienza University of Rome*. This homework was completed by **Group #9** in the academic year **2024–2025**. 
 
 ### Group Members
-- Géraldine Valérie Maurer
-- Marta Lombardi (2156537)
-- Michele Pezza (1845897)
-- Myriam Obialo (1942326)
+- Géraldine Valérie Maurer (gmaurer08@gmail.com)
+- Marta Lombardi (2156537, lombardi.2156537@studenti.uniroma1.it)
+- Michele Pezza (1845897, pezza.1845897@studenti.uniroma1.it)
+- Myriam Obialo (1942326, obialo.1942326@studenti.uniroma1.it)
 
 ### Homework Details
 The assignment specifications can be found at the following link: [ADM Homework 2](https://github.com/Sapienza-University-Rome/ADM/tree/master/2024/Homework_2).
