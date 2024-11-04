@@ -17,7 +17,7 @@ This repository contains the following two files:
 
 1. `main.ipynb`: This Jupyter Notebook contains the complete solution for Homework 2. It includes answers to all **7 Research Questions**, as well as the solutions for the **Bonus Question** and the **Algorithmic Question**.
   
-2. `main_v1.ipynb`: This Jupyter Notebook provides the solution for Homework 2 without the Bonus Question, covering only the **7 Research Questions** and the **Algorithmic Question**.
+2. `main(4).ipynb`: This Jupyter Notebook provides the solution for Homework 2 without the Bonus Question, covering only the **7 Research Questions** and the **Algorithmic Question**.
 
 3. `functions.py`: This Python file includes all the helper functions we implemented to facilitate the solutions for the research and bonus questions, as well as the function required for the algorithmic question.
 
