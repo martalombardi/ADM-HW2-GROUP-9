@@ -12,7 +12,7 @@ This repository contains the solution for the **second homework** of the course 
 ### Homework Details
 The assignment specifications can be found at the following link: [ADM Homework 2](https://github.com/Sapienza-University-Rome/ADM/tree/master/2024/Homework_2).
 
-The copy of the submitted notebook can be found at the following link: [Jupyter Notebook Viewer](https://nbviewer.org/github/martalombardi/ADM-HW2-GROUP-9/blob/main/main.ipynb)
+A copy of the submitted notebook is available for viewing at the following link: [Jupyter Notebook Viewer](https://nbviewer.org/github/martalombardi/ADM-HW2-GROUP-9/blob/main/main.ipynb)
 
 ### Repository Contents
 This repository contains the following two files:
